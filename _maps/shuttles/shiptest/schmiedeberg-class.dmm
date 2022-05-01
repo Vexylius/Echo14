@@ -394,14 +394,13 @@
 /turf/open/floor/wood,
 /area/ship/crew/dorm)
 "kf" = (
-/obj/effect/turf_decal/corner/white/mono,
 /obj/machinery/plumbing/pill_press{
 	dir = 4
 	},
 /obj/effect/turf_decal/trimline/orange/end{
 	dir = 4
 	},
-/turf/open/floor/plating,
+/turf/open/floor/plasteel/white,
 /area/ship/medical)
 "kh" = (
 /obj/machinery/suit_storage_unit/cmo,
@@ -955,7 +954,6 @@
 /obj/structure/cable{
 	icon_state = "0-2"
 	},
-/obj/effect/turf_decal/corner/white/mono,
 /obj/machinery/plumbing/input{
 	dir = 8
 	},
@@ -965,7 +963,7 @@
 /obj/machinery/light{
 	dir = 8
 	},
-/turf/open/floor/plating,
+/turf/open/floor/plasteel/white,
 /area/ship/medical)
 "CR" = (
 /obj/structure/cable{
@@ -1649,13 +1647,12 @@
 /turf/open/floor/carpet/black,
 /area/ship/crew/canteen/kitchen)
 "Vi" = (
-/obj/effect/turf_decal/corner/white/mono,
 /obj/machinery/duct,
 /obj/effect/turf_decal/trimline/orange/arrow_ccw,
 /obj/effect/turf_decal/trimline/orange/arrow_cw{
 	dir = 1
 	},
-/turf/open/floor/plating,
+/turf/open/floor/plasteel/white,
 /area/ship/medical)
 "Vu" = (
 /obj/machinery/vending/medical,
